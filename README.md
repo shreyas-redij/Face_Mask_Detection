@@ -15,6 +15,7 @@ Object Detection Network:
 It  uses the RoI pooling layer for making region proposal of fixed size and 
 twin layers of softmax classifier and the bounding box regressor is also used in the prediction of the object and its bounding box.
 
-Annotation.
+Annotation
+
 We are suing LabelMe tool for annotating images
 https://github.com/wkentaro/labelme
