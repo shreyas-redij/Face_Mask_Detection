@@ -1,7 +1,7 @@
 **Face Mask Detection**
 
 **Architechture**
-![alt text](https://github.com/shreyas-redij/Face_Mask_Detection/blob/master/Images/Faster_RCNN.JPG
+![alt text](https://github.com/shreyas-redij/Face_Mask_Detection/blob/master/Images/Faster_RCNN.JPG)
 
 Faster R-CNN architecture contains 2 networks:
 
